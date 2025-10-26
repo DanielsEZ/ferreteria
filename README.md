@@ -80,6 +80,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## ✉️ Contacto
 
-DanielsEZ - [@tu_twitter](https://x.com/Daniels_EZ)
+DanielsEZ - [@daniels_ez](https://x.com/Daniels_EZ)
 
 Enlace del proyecto: [https://github.com/DanielsEZ/ferreteria](https://github.com/DanielsEZ/ferreteria)
