@@ -69,9 +69,6 @@ ferreteria/
 └── README.md
 ```
 
-## 📸 Capturas de Pantalla
-
-*(Incluir capturas de pantalla de las principales pantallas de la aplicación)*
 
 ## 🤝 Contribuir
 
@@ -83,6 +80,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## ✉️ Contacto
 
-DanielsEZ - [@tu_twitter](https://twitter.com/tu_twitter)
+DanielsEZ - [@tu_twitter](https://x.com/Daniels_EZ)
 
 Enlace del proyecto: [https://github.com/DanielsEZ/ferreteria](https://github.com/DanielsEZ/ferreteria)
