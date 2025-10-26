@@ -1,0 +1,4 @@
+<div style="display:flex; justify-content:flex-end; gap:.5rem; margin-bottom:.5rem">
+  <a class="button btn btn-secondary" href="${pageContext.request.contextPath}/index.jsp">Inicio</a>
+  <a class="button btn btn-primary" href="${pageContext.request.contextPath}/auth/logout">Cerrar sesión</a>
+</div>

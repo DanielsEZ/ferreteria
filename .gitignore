@@ -1,0 +1,34 @@
+# Archivos compilados
+*.class
+*.war
+*.ear
+*.jar
+*.log
+
+# Directorios de compilación
+/target/
+/ferreteria-web/target/
+
+# Archivos de configuración local
+*.properties
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de base de datos
+*.db
+*.sql
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de Maven
+pom.xml.versionsBackup
